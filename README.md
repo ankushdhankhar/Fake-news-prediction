@@ -2,10 +2,10 @@
 
 This project aims to classify whether a news article is **real** or **fake** using natural language processing and machine learning techniques. It evaluates and compares the performance of several supervised models including:
 
-- Logistic Regression
-- Decision Tree Classifier
-- Random Forest Classifier
-- Gradient Boosting Classifier
+- Logistic Regression : Linear model for binary classification.
+- Decision Tree Classifier : Simple tree-based classifier.
+- Random Forest Classifier : Ensemble of decision trees, reduces overfitting.
+- Gradient Boosting Classifier : Builds models sequentially to reduce error.
 
 ---
 
@@ -54,14 +54,6 @@ Used TF-IDF Vectorizer from sklearn to convert cleaned text into numeric feature
 
 ---
 
-##  Models Used
-
-  Logistic Regression: Linear model for binary classification.
-  Decision Tree: Simple tree-based classifier.
-  Random Forest: Ensemble of decision trees, reduces overfitting.
-  Gradient Boosting: Builds models sequentially to reduce error.
-
----
 
 
 
