@@ -12,7 +12,10 @@ This project aims to classify whether a news article is **real** or **fake** usi
 ## 📊 Dataset
 
 The dataset contains:
+- `title`: News article title.
 - `text`: News article content.
+- `subject`: Subject of news.
+- `date`: Date.
 - `class`: Label (0 = Fake, 1 = Real).
 
 Example sources:
