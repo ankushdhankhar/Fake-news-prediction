@@ -54,6 +54,14 @@ Used TF-IDF Vectorizer from sklearn to convert cleaned text into numeric feature
 
 ---
 
+## 📈 Model Evaluation
 
+Performance is evaluated using:
+
+`Accuracy`
+`Precision`
+`Recall`
+`F1 Score`
+`Confusion Matrix`
 
 
